@@ -22,4 +22,14 @@ https://stackoverflow.com/questions/23260057/the-forked-vm-terminated-without-sa
 
 http://maven.apache.org/surefire/maven-surefire-plugin/faq.html
 
+# maven-surefire-plugin java 11
+
+https://www.google.com/search?q=maven-surefire-plugin+java+11&oq=maven-surefire-plugin&aqs=chrome.4.69i59j0l5j69i60l2.3865j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/53437819/maven-surefire-and-jdk-11
+
+https://winterbe.com/posts/2018/08/29/migrate-maven-projects-to-java-11-jigsaw/
+
+https://maven.apache.org/enforcer/enforcer-rules/requireMavenVersion.html
+
 
