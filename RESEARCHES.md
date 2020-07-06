@@ -7,3 +7,7 @@ https://simply-how.com/getting-started-with-java-11
 # how-to-download-and-install-openjdk-11-on-windows
 
 http://techoral.com/blog/java/how-to-download-and-install-openjdk-11-on-windows.html
+
+# how-to-install-java-11-on-windows
+
+https://java.tutorials24x7.com/blog/how-to-install-java-11-on-windows
